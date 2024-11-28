@@ -1,0 +1,7 @@
+#dirs
+.vscode/
+.venv/
+__pycache__/
+
+#files
+.gitignore
